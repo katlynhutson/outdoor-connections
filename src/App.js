@@ -1,13 +1,16 @@
 import { Routes, Route } from 'react-router-dom';
 import Home from './components/Home';
+import Nav from './components/Nav';
 
 function App() {
 	return (
-		<div>
+		<>
+			<h1>Outdoor Connections</h1>
+			<Nav />
 			<Routes>
 				<Route path='/' element={<Home />} />
 			</Routes>
-		</div>
+		</>
 	);
 }
 
