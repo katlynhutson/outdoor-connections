@@ -1,4 +1,5 @@
 import { Routes, Route } from 'react-router-dom';
+
 import Home from './components/Home';
 import Nav from './components/Nav';
 import About from './components/About';
@@ -14,6 +15,8 @@ import Supplies from './components/Supplies';
 import TeamLeaders from './components/TeamLeaders';
 import TrailRules from './components/TrailRules';
 import Waiver from './components/Waiver';
+
+import './style/home.css';
 
 function App() {
 	return (

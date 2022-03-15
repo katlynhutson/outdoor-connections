@@ -1,4 +1,14 @@
 @import-normalize;
 
+body {
+	margin: 0px;
+	background-color: var(--green);
+}
+
 :root {
+	--green: rgb(96, 108, 56);
+	--black: rgb(40, 54, 24);
+	--cream: rgb(254, 250, 224);
+	--tan: rgb(221, 161, 94);
+	--rust: rgb(188, 108, 37);
 }

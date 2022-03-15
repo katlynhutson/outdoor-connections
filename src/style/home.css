@@ -11,24 +11,25 @@
 	padding-bottom: 1rem;
 }
 
-.outdo {
+.out {
 	grid-row: 1 / span 1;
 	grid-column: 1 / span 1;
 	text-align: right;
-
+	color: var(--cream);
 	margin-top: 0px;
 	margin-left: 0px;
 	margin-right: 0px;
 	margin-bottom: -20px;
 }
 
-.or {
+.door {
 	grid-row: 1 / span 1;
 	grid-column: 2 / span 1;
 	margin-top: 0px;
 	margin-left: 1px;
 	margin-right: 0px;
 	margin-bottom: -20px;
+	color: var(--cream);
 }
 
 .connections {
@@ -40,6 +41,7 @@
 	margin-right: 0px;
 	margin-bottom: 0px;
 	padding-bottom: 1rem;
+	color: var(--tan);
 }
 
 @media (max-width: 600px) {
