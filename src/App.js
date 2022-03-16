@@ -23,6 +23,10 @@ function App() {
 		<>
 			<header>
 				<Nav />
+				<div>
+					Take the time out of your busy life and make a connection - a
+					connection to nature, to new friends, and most of all to yourself.
+				</div>
 			</header>
 			<Routes>
 				<Route path='/' element={<Home />} />
