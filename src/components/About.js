@@ -21,7 +21,16 @@ function About(props) {
 				one of the nearby state parks. We may also schedule additional types of
 				outdoor, fitness, or social activities.
 			</div>
-			<div></div>
+			<div>
+				Outdoor Connection began initially as a walking group. Over the years we
+				added hiking, then more outdoor activities. We are open to most
+				activities that involve exercise and socializing outdoors - hiking,
+				camping, kayaking, biking, etc. We are currently growing and looking
+				forward to new activities. Members choose which events they want to
+				attend. You can view our calendar to get an idea of what we do. New
+				events are added on a regular basis. (The full details of the events are
+				only revealed to registered members.)
+			</div>
 		</>
 	);
 }
