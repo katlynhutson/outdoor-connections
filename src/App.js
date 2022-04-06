@@ -17,6 +17,7 @@ import TrailRules from './components/TrailRules';
 import Waiver from './components/Waiver';
 
 import './style/home.css';
+import './style/nav.css';
 
 function App() {
 	return (
