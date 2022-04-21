@@ -1,7 +1,12 @@
 nav {
 	display: flex;
 }
-li {
+a {
 	text-decoration: none;
+	list-style: none;
+	color: var(--cream);
+}
+
+li {
 	list-style: none;
 }
